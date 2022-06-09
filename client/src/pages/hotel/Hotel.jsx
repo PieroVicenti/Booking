@@ -21,10 +21,9 @@ import Reserve from "../../components/reserve/Reserve";
 const Hotel = () => {
   const location = useLocation();
   const id = location.pathname.split("/")[2];
-  console.log(location)
   const [slideNumber, setSlideNumber] = useState(0);
   const [open, setOpen] = useState(false);
-  const [openModel, setOpenModel] = useState(false);
+  const [openModal, setOpenModal] = useState(false);
 
   const {dates, options} = useContext(SearchContext);
 
@@ -61,7 +60,7 @@ const Hotel = () => {
 
   const handleClick = () => {
     if(user){
-      setOpenModel(true);
+      setOpenModal(true);
     }else{
       navigate("/login");
     }
@@ -142,7 +141,7 @@ const Hotel = () => {
         <MailList />
         <Footer />  
       </div>)}
-      {openModel && <Reserve setOpen={setOpenModel} hotelId={id}/>}
+      {openModal && <Reserve setOpen={setOpenModal} hotelId={id}/>}
     </div>
   );
 };
