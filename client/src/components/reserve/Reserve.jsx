@@ -65,7 +65,6 @@ const Reserve = ({ setOpen, hotelId }) => {
       navigate("/");
     } catch (err) {}
   };
-  
   return (
     <div className="reserve">
       <div className="rContainer">
