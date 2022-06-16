@@ -10,3 +10,5 @@
 - Hotel(s) available based on filters (dates, price)
 
 ![HotelAvailable-Booking](https://user-images.githubusercontent.com/91989821/173925090-8504c519-41a1-4762-8b9e-3ca97494516f.png)
+
+ Bookable room with all the needed details
