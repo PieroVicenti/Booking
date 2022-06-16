@@ -7,7 +7,7 @@
 
 ![Homepage2-Booking](https://user-images.githubusercontent.com/91989821/173924641-4c6cb66a-4cbe-4f25-84f9-a9eee0f8531f.png)
 
-- Hotel(s) available based on filters (dates, price)
+- ## Hotel(s) available based on filters (dates, price)
 
 ![HotelAvailable-Booking](https://user-images.githubusercontent.com/91989821/173925090-8504c519-41a1-4762-8b9e-3ca97494516f.png)
 
