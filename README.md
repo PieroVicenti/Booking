@@ -12,3 +12,4 @@
 ![HotelAvailable-Booking](https://user-images.githubusercontent.com/91989821/173925090-8504c519-41a1-4762-8b9e-3ca97494516f.png)
 
 - Bookable room with all the needed details
+![HotelRoom](https://user-images.githubusercontent.com/91989821/174163775-ad1cfac6-e9bc-46d9-b424-36ce0f754dd4.png)
