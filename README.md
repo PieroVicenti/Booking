@@ -18,4 +18,4 @@
 
 ![reserve](https://user-images.githubusercontent.com/91989821/174163943-92428efe-cbf3-40ae-92da-f888155630af.png)
 
-- ## API requests
+- ## DB queries
