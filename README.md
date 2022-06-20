@@ -18,6 +18,6 @@
 
 ![reserve](https://user-images.githubusercontent.com/91989821/174163943-92428efe-cbf3-40ae-92da-f888155630af.png)
 
-- ## DB queries
+- ## DB queries (Mongo DB)
 
 ![api](https://user-images.githubusercontent.com/91989821/174399119-ea45d80d-05af-42a2-9b2e-409257489cb3.png)
